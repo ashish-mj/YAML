@@ -2,8 +2,6 @@
 
 # Scalar is a single stored value
 
-# YAML determines type based on value, use single or double quotes while using special characters
-
 Name : Ashish                   # Scalar, string
 
 Age : 20                        # Scalar, int

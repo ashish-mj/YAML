@@ -1,0 +1,10 @@
+kind : ConfigMap
+application :
+    name : CRUD-operations
+    database :
+        connection-string : localhost
+        port : 27017
+        username : YWRtaW4=
+        password : YWRtaW4xMjM=
+        database-name : College
+        collection-name : Student_Info

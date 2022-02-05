@@ -1,0 +1,21 @@
+﻿SYMBOL
+DESCRIPTION
+>
+removes newlines within the string
+|
+turns every newline within the string into a literal newline
+!!
+used to specify explicit data type
+?
+question mark followed by space indicates a complex key
+&
+anchor which defines a chunk of values
+*
+alias used to refer to chunk elsewhere
+<<:
+overide/merge anchor values
+---
+indicates start of document
+...
+indicates end of document
+
