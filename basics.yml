@@ -1,0 +1,33 @@
+# This is a comment
+
+# Scalar is a single stored value
+
+# YAML determines type based on value, use single or double quotes while using special characters
+
+Name : Ashish                   # Scalar, string
+
+Age : 20                        # Scalar, int
+
+Graduated : false               # Scalar, boolean
+
+CPGA : 9.23                     # Scalar, float
+
+Rank : null                     # Scalar , can be .NaN
+
+SGPA :                          # array
+     - 9.06
+     - 9.01
+     - 9.44
+     - 9.20
+     
+Education :                              # dictionary
+          PUC : 
+               Name : "Board PU College"
+               Year : 2017
+               Percentage : 88.75
+          
+          High School :
+               Name : "Public High School"
+               Year : 2015
+               Percentage : 92.08
+          
